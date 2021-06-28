@@ -1,1 +1,1 @@
-# python_studies
+# python_vazifalar
